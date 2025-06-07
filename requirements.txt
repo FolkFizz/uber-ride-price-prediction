@@ -1,0 +1,29 @@
+# mamba install --channel conda-forge --file requirements.txt
+
+# Core Libraries
+pandas 
+numpy
+scikit-learn
+# Data Visualization
+matplotlib
+seaborn
+folium 
+
+# Geospatial Calculation
+haversine
+
+# Gradient Boosting Models
+xgboost
+lightgbm
+
+# MLOps & Experiment Tracking
+mlflow
+pyyaml
+dvc-gdrive 
+
+# Other
+tqdm
+
+# Web API
+fastapi
+uvicorn
